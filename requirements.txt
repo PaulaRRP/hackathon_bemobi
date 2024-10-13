@@ -1,0 +1,7 @@
+Flask
+twilio
+google-generativeai
+python-decouple
+sqlalchemy
+psycopg2-binary
+python-multipart
